@@ -5,7 +5,7 @@ in an attempt to work through the process of actually learning how to write effe
 
 This project is the result of months of research and scanning of the externally facing
 North Korean internet, which is around 1500 IP addresses.  The wider project was undertaken both to learn how to more 
-effectively learn to use nmap on large networks, but also to explore the uses of 
+effectively use nmap on large networks, but also to explore the uses of 
 technical tools in developing political analysis, even in conditions where information
 is often distorted and limited.
 
@@ -75,6 +75,9 @@ script as you see fit.
 
 Usage
 
-git clone repository into directory of one's choosing
+git clone https://github.com/bamnsec/NK_Scan.git
 cd NKscan
 python NKscan.py
+
+In the near future functionality will be added to change the scan options.  If you would like to modify the scan options
+they must be modified in the code itself.
