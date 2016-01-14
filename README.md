@@ -1,3 +1,13 @@
+````
+.__   __.  __  ___            _______.  ______     ___      .__   __. 
+|  \ |  | |  |/  /           /       | /      |   /   \     |  \ |  | 
+|   \|  | |  '  /           |   (----`|  ,----'  /  ^  \    |   \|  | 
+|  . `  | |    <             \   \    |  |      /  /_\  \   |  . `  | 
+|  |\   | |  .  \        .----)   |   |  `----./  _____  \  |  |\   | 
+|__| \__| |__|\__\  _____|_______/     \______/__/     \__\ |__| \__| 
+                   |______|                                           
+
+
 README
 
 Welcome to NKscan, a simple python script, mostly drawn from the python-libnmap documentation
@@ -87,3 +97,4 @@ Usage
 git clone repository into directory of one's choosing
 cd NKscan
 python NKscan.py
+````
